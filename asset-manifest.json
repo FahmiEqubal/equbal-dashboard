@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/equbal-dashboard.git/static/css/main.214761ee.css",
+    "main.js": "/equbal-dashboard.git/static/js/main.75267271.js",
+    "index.html": "/equbal-dashboard.git/index.html",
+    "main.214761ee.css.map": "/equbal-dashboard.git/static/css/main.214761ee.css.map",
+    "main.75267271.js.map": "/equbal-dashboard.git/static/js/main.75267271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214761ee.css",
+    "static/js/main.75267271.js"
+  ]
+}
