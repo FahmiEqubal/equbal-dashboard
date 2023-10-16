@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/equbal-dashboard/static/css/main.214761ee.css",
-    "main.js": "/equbal-dashboard/static/js/main.75267271.js",
+    "main.js": "/equbal-dashboard/static/js/main.6eea7846.js",
     "index.html": "/equbal-dashboard/index.html",
     "main.214761ee.css.map": "/equbal-dashboard/static/css/main.214761ee.css.map",
-    "main.75267271.js.map": "/equbal-dashboard/static/js/main.75267271.js.map"
+    "main.6eea7846.js.map": "/equbal-dashboard/static/js/main.6eea7846.js.map"
   },
   "entrypoints": [
     "static/css/main.214761ee.css",
-    "static/js/main.75267271.js"
+    "static/js/main.6eea7846.js"
   ]
 }
